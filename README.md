@@ -2,6 +2,7 @@
 )</a>
 <a href="https://gitlab.com/ljavorsk">![GitLab](https://img.shields.io/badge/GitLab-888888?style=for-the-badge&logo=gitlab&logoColor=white)</a>
 <a href="mailto: ljavorsk@redhat.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://badges.fedoraproject.org/user/ljavorsk">![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)</a>
 
 - 👋 Hi, I’m Lukas Javorsky (@ljavorsk)
 - 👀 I’m interested in Computer Science and IT in general
