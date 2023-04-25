@@ -10,3 +10,9 @@
 - 💞️ I’m looking to collaborate on everything that could make the world a better place
 
 ![ljavorsk's github stats](https://github-readme-stats.vercel.app/api?username=ljavorsk&show_icons=true&theme=tokyonight)
+
+# GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ljavorsk&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ljavorsk&theme=tokyonight&exclude=Roff)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ljavorsk&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ljavorsk&theme=tokyonight&utcOffset=2)
