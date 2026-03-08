@@ -5,7 +5,7 @@
 <a href="https://badges.fedoraproject.org/user/ljavorsk">![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)</a>
 
 - 👋 Hi, I’m Lukas Javorsky (@ljavorsk)
-- 👀 I’m interested in Computer Science and IT in general
+- 👀 I’m interested in Computer Science, Cyber Security, and IT in general
 - 🌱 I’ve successfully finished studying at the Faculty of Informatics at BUT
 - 💞️ I’m looking to collaborate on everything that could make the world a better place
 
